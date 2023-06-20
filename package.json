@@ -17,7 +17,7 @@
   "devDependencies": {
     "browserify": "^16.5.2",
     "commander": "^2.20.0",
-    "cross-env": "^5.2.1",
+    "cross-env": "^6.0.0",
     "eslint": "^7.8.1",
     "eslint-config-digitalbazaar": "^2.5.0",
     "express": "^4.16.2",
@@ -40,7 +40,7 @@
     "nyc": "^15.1.0",
     "opts": "^1.2.7",
     "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12",
+    "webpack-cli": "^4.0.0",
     "worker-loader": "^2.0.0"
   },
   "repository": {
