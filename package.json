@@ -33,7 +33,7 @@
     "karma-sauce-launcher": "^2.0.2",
     "karma-sourcemap-loader": "^0.3.8",
     "karma-tap-reporter": "0.0.6",
-    "karma-webpack": "^4.0.2",
+    "karma-webpack": "^5.0.0",
     "mocha": "^5.2.0",
     "mocha-lcov-reporter": "^1.2.0",
     "nodejs-websocket": "^1.7.1",
